@@ -9,25 +9,25 @@ interface datatype {
 
 const Aboutdata: datatype[] = [
     {
-        imgSrc: "/assets/provide/svg/file_tax.svg",
+        imgSrc: "/assets/provide/SVG/file_tax.svg",
         country: "Tax Filing",
         paragraph: 'Navigate the complexities of Canadian tax laws with ease. Our tax filing services ensure accuracy and maximize your returns.',
 
     },
     {
-        imgSrc: "/assets/provide/svg/bookkeeping.svg",
+        imgSrc: "/assets/provide/SVG/bookkeeping.svg",
         country: "Bookkeeping",
         paragraph: 'Keep your business financially organized and compliant. Our meticulous bookkeeping provides the insights you need for informed decision-making.',
 
     },
     {
-        imgSrc: "/assets/provide/svg/accounts.svg",
+        imgSrc: "/assets/provide/SVG/accounts.svg",
         country: "Accounting",
         paragraph: 'From financial reporting to strategic planning, our accounting services cover all aspects to help your business thrive.',
 
     },
     {
-        imgSrc: "/assets/provide/svg/business consulting.svg",
+        imgSrc: "/assets/provide/SVG/business consulting.svg",
         country: "Business Consulting",
         paragraph: 'Expert advice to help your business grow. Our consulting services offer strategic insights tailored to your unique financial landscape.',
     },
