@@ -45,7 +45,7 @@ const Provide = () => {
                     <div className='col-span-6 flex justify-center'>
                         <div className="flex flex-col align-middle justify-center p-10">
                             <p className="text-4xl lg:text-6xl pt-4 font-semibold lh-81 mt-5 text-center lg:text-start">We Ensure Your Financial Health.</p>
-                            <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">At ABN CONSULTING, we bring clarity and simplicity to your financial matters. Our team of experts in Canada offers tailored solutions in tax filing, bookkeeping, and accounting to keep your finances in impeccable order. We're committed to guiding you through every financial decision with precision and care.</h4>
+                            <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">At ABN CONSULTING, we bring clarity and simplicity to your financial matters. Our team of experts in Canada offers tailored solutions in tax filing, bookkeeping, and accounting to keep your finances in impeccable order. We&sbquo;re committed to guiding you through every financial decision with precision and care.</h4>
                             <Link href={'/'} className="mt-4 text-xl font-medium text-blue flex gap-2 mx-auto lg:mx-0 space-links">Discover Our Services <Image src={'/assets/provide/arrow.svg'} alt={'arrow'} width={20} height={20} /></Link>
                         </div>
                     </div>

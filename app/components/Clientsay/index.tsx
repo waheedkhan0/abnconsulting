@@ -5,7 +5,7 @@ const Clientsay = () => {
         <div className="mx-auto max-w-2xl py-40 px-4s sm:px-6 lg:max-w-7xl lg:px-8">
             <div className="bg-image-what">
                 <h3 className='text-navyblue text-center text-4xl lg:text-6xl font-semibold'>What say clients about us.</h3>
-                <h4 className="text-lg font-normal text-darkgray text-center mt-4">Elevating Canada's <br /> Financial Landscape.</h4>
+                <h4 className="text-lg font-normal text-darkgray text-center mt-4">Elevating Canada&sbquo;s <br /> Financial Landscape.</h4>
 
                 <div className="lg:relative">
                     <Image src={'/assets/clientsay/avatars.png'} alt="avatar-image" width={1061} height={733} className="hidden lg:block" />
